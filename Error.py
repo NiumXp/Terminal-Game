@@ -6,3 +6,9 @@ class Item(Exception):
 
 class Category(Exception):
     pass
+
+class Atribut(Exception):
+    pass
+
+class Operator(Exception):
+    pass
