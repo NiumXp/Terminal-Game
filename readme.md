@@ -1,6 +1,6 @@
 # Terminal Game ![Nathan](https://i.imgur.com/aoDXktb.jpg)
 
-###PT-BR
+#PT-BR
 
 __Um jogo simples desenvolvido usando Pyton__
 
