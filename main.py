@@ -40,13 +40,13 @@ while executing:
     if machine.life <= 0 or player.life <= 0:
         executing = False
     else:
-        print(f"Vez da/do {machine.name}.\n")
+        print(f"Vez do {machine.name}.\n")
         machine_action(machine, player)
 
         sleep(3)
         clear()
 
-        print(f"Vez do {player.name}.\n")
+        print(f"Vez da/do {player.name}.\n")
         decision = "nothing"
         while decision not in ["a", "d"]:
             decision = input(" [A] - Atacar.\n [D] - Entrar em guarda.\n\n > ").lower()
