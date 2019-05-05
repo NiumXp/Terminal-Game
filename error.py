@@ -1,7 +1,7 @@
 class Base(Exception):
     pass
 
-class Item(Exception):
+class Iten(Exception):
     pass
 
 class Category(Exception):
