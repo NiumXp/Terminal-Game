@@ -2,6 +2,7 @@
 
 ### EN-US + PT-BR
 __A simple game developed using Python__
+
 __Um jogo simples desenvolvido usando Pyton__
 
 - Developers // Desenvolvedores:
