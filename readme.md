@@ -2,7 +2,7 @@
 
 #PT-BR
 
-__Um jogo simples desenvolvido usando Pyton__
+__Um jogo simples desenvolvido usando Python__
 
 - Desenvolvedores:
    - [Nathan](https://github.com/Niump "Nathan's Official Repository")
